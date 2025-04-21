@@ -1,0 +1,11 @@
+name: stats507
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - xgboost
+  - shap
+  - matplotlib
