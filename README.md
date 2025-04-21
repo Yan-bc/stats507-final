@@ -15,7 +15,7 @@ stats507-final/
 │   ├── preprocessing.py    # Data cleaning & normalization
 │   ├── modeling.py         # Model training & SHAP analysis
 │   └── visualization.py    # Radar plot generation
-├── models/                 # Trained model files & feature JSONs
+├── models/                 # Auto‑generated model files & JSON
 │   └── top5_features.json
 ├── figures/
 │   ├── radar/              # Radar plots of top-5 features
