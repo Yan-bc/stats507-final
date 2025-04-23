@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore data files if too large
+data/raw/
+data/processed/
+
+# Ignore model binaries
+models/
+
+# Ignore figures (can be regenerated)
+figures/
+
+# Environment files
+.env
+.vscode/
+.idea/
+
+# Logs
+*.log
